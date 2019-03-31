@@ -1,4 +1,5 @@
 {
-    "url": "https://www.google.com",
-    "browser": "chrome"
+    "url": "https://www.indeed.com.br/",
+    "browser": "chrome",
+    "executable_path_chromedriver": "/Users/brunolopes/Documents/Reachr/python-selenium-bdd/tests/framework/chromedriver"
 }
